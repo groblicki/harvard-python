@@ -1,3 +1,6 @@
+# pytest
+
+
 def main():
     x = int(input("x: "))
     print(f"{x} ^ 2 = {square(x)}")
